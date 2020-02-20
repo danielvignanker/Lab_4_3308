@@ -1,0 +1,17 @@
+Directory Structure:
+|--Lab_Website
+	|--views
+		|--login.html
+		|--register.html
+		|--home.html
+		|--team_stats.html
+		|--player_info.html
+	|--resources
+		|--css
+			|--signin.css
+			|--my_style.css
+		|--img
+			|--beproudcapaabanner.jpg
+			|--cu_boulder_logo.jpg
+			|--favicon.ico
+			|--temp_image.svg
